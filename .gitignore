@@ -1,0 +1,5 @@
+EnvironmentVariables.cs
+/bin
+/obj
+.DS_Store
+appsettings.json
